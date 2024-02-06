@@ -1,30 +1,24 @@
-# React + TypeScript + Vite
+**Hello Candidate! That's so nice; you've come this far! 🚀**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Case: Weather App**
 
-Currently, two official plugins are available:
+**How's it going? 😊 This time, we have a simple task for you. Our company wants you to create a weather app. Here are the details:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Basic Features:**
 
-## Expanding the ESLint configuration
+1. Fetch weather information for cities using a free weather API. [Sample API](https://openweathermap.org/current) - You are free to choose whatever you want.
+2. Get the city name from the user and nicely display the weather details (temperature, weather condition, wind speed, etc.).
+3. Add a cool input box for entering the city and a search button for querying.
+4. Show a pleasant loading indicator (loading spinner) when the request is sent.
+5. When weather data is successfully retrieved, display this data in an organized way.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+**Brief Note**
+We've prepared a project template for you, and you can build your project on top of it. This template comes with Ant Design and Styled-Components pre-installed. We expect you to enhance this case using these libraries. P.S.: Thinking it would make your job easier, I've left a few components inside for you.
 
-- Configure the top-level `parserOptions` property like this:
+**Requirements:**
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- Make an API request to fetch weather data. (Axios recommended)
+- Design a user-friendly and stylish interface, _making it responsive from desktop to mobile screen sizes is big plus_.
+- Keep your code organized, add explanatory comments, open a repo on GitHub, and share so we can see what you've done!
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+**Come on, Happy Coding! 🚀👩‍💻**
