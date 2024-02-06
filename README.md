@@ -21,4 +21,8 @@ We've prepared a project template for you, and you can build your project on top
 - Design a user-friendly and stylish interface, _making it responsive from desktop to mobile screen sizes is big plus_.
 - Keep your code organized, add explanatory comments, open a repo on GitHub, and share so we can see what you've done!
 
-**Come on, Happy Coding! 🚀👩‍💻**
+**Sample UI**
+
+![Sample UI](https://ratiosim-bucket.s3.eu-west-1.amazonaws.com/sample-weather-dashboard.png)
+
+**Happy Coding! 🚀👩‍💻**
